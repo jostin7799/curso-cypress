@@ -1,3 +1,4 @@
+//Nazareth Agüero Alvarado
 export class ProductDetailsElements{
     static get buttons(){
         return{

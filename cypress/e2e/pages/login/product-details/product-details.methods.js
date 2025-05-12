@@ -1,3 +1,4 @@
+//Nazareth Agüero Alvarado
 import { ProductDetailsElements } from "./product-details.elements";
 
 export class ProductDetailsMethods{
