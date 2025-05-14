@@ -1,0 +1,1 @@
+[{"uid":"d432c34c70eb779c","name":"Registro de usuario válido","time":{"start":1747239284470,"stop":1747239285855,"duration":1385},"status":"passed","severity":"normal"},{"uid":"dec69776a85e0f19","name":"Registro de usuario inválido","time":{"start":1747239285858,"stop":1747239286428,"duration":570},"status":"passed","severity":"normal"}]
